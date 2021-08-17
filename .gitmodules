@@ -1,3 +1,6 @@
 [submodule "backend"]
 	path = backend
 	url = git@github.com:SinvalVJunior/pokedex-web-backend.git
+[submodule "app-frontend"]
+	path = app-frontend
+	url = git@github.com:SinvalVJunior/pokedex-web-frontend.git
