@@ -24,6 +24,8 @@
 
 ### How to run:
 ```
+git clone <frontend-repository-url>
+cd app-frontend
 yarn install
 yarn start
 ```
@@ -31,6 +33,8 @@ yarn start
 
 ### How to run:
 ```
+git clone <backend-repository-url>
+cd backend
 yarn install
 yarn dev
 ```
