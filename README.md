@@ -32,3 +32,5 @@ yarn dev
 ```
 
 **Checkout the project's [Wiki](https://github.com/SinvalVJunior/pokedex-web/wiki).**
+
+**Checkout the project in [action](https://pokedexweb.herokuapp.com/).**
