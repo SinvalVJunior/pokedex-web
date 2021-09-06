@@ -5,7 +5,7 @@
 **Version 1.0 is out!**
 
 ## About
- The principal idea of this project is to play a roullete game to select a random pokemon and add the pokemon to the user's inventory where he will see it's stats. We will use PokeAPI to get the user's selected pokemon and a rest backend application to store then. The application uses the react freamwork to animate the roullete and show the stats to the user.
+ The principal idea of this project is to play a roullete game to select a random pokemon and add the pokemon to the user's inventory where he will see it's stats. We will use PokeAPI to get the user's selected pokemon and a rest backend application to store then. The application uses the react framework to animate the roullete and show the stats to the user.
 
 ## Itens Extras
  - [x] (5%) Integração com autenticação por 3ºs
